@@ -1,0 +1,27 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments (assumed to be inside each project folder)
+**/venv/
+venv/
+
+# Ignore credentials and sensitive data
+**/creds/
+creds/
+
+# Ignore logs and temporary outputs
+**/log.csv
+log.csv
+**/job_description.txt
+job_description.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor folders
+.vscode/
+.idea/
