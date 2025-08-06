@@ -1,0 +1,6 @@
+[submodule "AIAGENT"]
+	path = AIAGENT
+	url = https://github.com/yourusername/AIAGENT.git
+[submodule "LeetCodeMicroService/two_sum_api"]
+	path = LeetCodeMicroService/two_sum_api
+	url = https://github.com/yourusername/LeetCodeMicroService.git
